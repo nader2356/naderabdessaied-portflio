@@ -223,7 +223,7 @@ export const DATA = {
       active: true,
       description: "",
       technologies: [
-        "Wordpress",
+        "ReactJS",
       ],
       links: [
         {
