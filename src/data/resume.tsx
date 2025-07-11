@@ -78,7 +78,7 @@ export const DATA = {
       end: "aujourd'hui",
 
     },
-    
+
      {
       company: "Billcom Consulting",
       href: "",
@@ -210,7 +210,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/CaptureWorkly.PNG",
+      image: "/CaptureWorkly.png",
       video: "",
     },
 
