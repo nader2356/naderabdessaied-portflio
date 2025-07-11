@@ -66,18 +66,20 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "Devokt",
+
+     {
+      company: "GPRO Consulting",
       href: "",
       badges: [],
       location: "On-site",
-      title: " Déveloper Fullstack Web",
-      logoUrl: "/Devokt.png",
-      start: "Juillet 2023",
-      end: "avril 2023",
-    },
+      title: "Déveloper Fullstack Web ",
+      logoUrl: "GPRO Consulting",
+      start: "Juillet 2024",
+      end: "aujourd'hui",
 
-    {
+    },
+    
+     {
       company: "Billcom Consulting",
       href: "",
       badges: [],
@@ -90,17 +92,19 @@ export const DATA = {
     },
 
     {
-      company: "GPRO Consulting",
+      company: "Devokt",
       href: "",
       badges: [],
       location: "On-site",
-      title: "Déveloper Fullstack Web ",
-      logoUrl: "GPRO Consulting",
-      start: "Juillet 2024",
-      end: "aujourd'hui",
-
+      title: " Déveloper Fullstack Web",
+      logoUrl: "/Devokt.png",
+      start: "Juillet 2023",
+      end: "avril 2023",
     },
 
+   
+
+   
   ],
 
 
