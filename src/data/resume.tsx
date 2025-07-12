@@ -131,44 +131,29 @@ export const DATA = {
 
 
   projects: [
-    {
-      title: "site eskooly",
-      href: "https://eskooly.com",
-      dates: "Juillet 2022 - Novembre 2023",
-      active: true,
-      description: "",
-      technologies: [
-        "ReactJS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://eskooly.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/Captureeskooly.png",
-      video: "",
-    },
-
      {
-      title: " site ehs",
-      href: "https://www.ehs.com",
-      dates: "Décembre 2023 - Avril 2023",
+      title: "Grattoir à voiture",
+      href: "https://www.autoprix.tn",
+      dates: "Jan 2024 - jun 2024",
       active: true,
-      description: "",
-      technologies: [
+      description: "Nous avons conçu une solution robuste qui automatise la récupération des voitures et ces details sur plusieurs sites et intègre parfaitement les données à une plateforme personnalisée avec MySQL. Doté d'une interface de configuration basée sur ReactJS, d'une sécurité LDAP et d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx..",    
+  technologies: [
+        "Python",
+        "Flask",
         "Angular",
+        "MySQL",
+        "Gunicorn",
+        "Nginx",
       ],
       links: [
         {
           type: "Website",
-          href: "https://www.ehs.com",
+          href: "http://213.130.144.156/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Captureehs.png",
-      video: "",
+      image: "",
+      video: "/jobScrapDemo.mp4",
     },
 
 
@@ -180,7 +165,7 @@ export const DATA = {
       active: true,
       description: "",
       technologies: [
-        "VueJS",
+        "ReactJS",
       ],
       links: [
         {
@@ -201,7 +186,7 @@ export const DATA = {
       active: true,
       description: "",
       technologies: [
-        "NextJS",
+        "ReactJS",
       ],
       links: [
         {
