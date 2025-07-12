@@ -157,11 +157,10 @@ export const DATA = {
     },
 
      {
-      title: " site ehs",
+      title: "site ehs",
       href: "https://www.ehs.com",
       dates: "Décembre 2023 - Avril 2023",
       active: true,
-      description: "",
       technologies: [
         "ReactJS",
         "NodeJS",
@@ -186,7 +185,6 @@ export const DATA = {
       href: "https://www.leboncoin.fr",
       dates: "Janvier 2024 - Mai 2024",
       active: true,
-      description: "",
       technologies: [
         "ReactJS",
         "NodeJS",
@@ -210,7 +208,7 @@ export const DATA = {
       href: "https://workly.io/en",
       dates: "Juin 2024 - Novembre 2024",
       active: true,
-  
+
       technologies: [
         "ReactJS",
       ],
@@ -232,7 +230,6 @@ export const DATA = {
       href: "https://elzei-uat.esy.es",
       dates: "Décembre 2024 - Juin 2025",
       active: true,
-      description: "",
       technologies: [
         "ReactJS",
       ],
