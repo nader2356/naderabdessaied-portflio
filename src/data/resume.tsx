@@ -161,7 +161,7 @@ export const DATA = {
       href: "https://www.ehs.com",
       dates: "Décembre 2023 - Avril 2023",
       active: true,
-      description: "Engineered a robust solution that automates job offer scraping from multiple sites and seamlessly integrates data into a custom WordPress platform with MySQL. Featuring an Angular-driven configuration interface, LDAP-based security, and nightly cron job automation, this project is deployed on a scalable VPS using Gunicorn and Nginx.",
+      description: "",
       technologies: [
         "ReactJS",
         "NodeJS",
