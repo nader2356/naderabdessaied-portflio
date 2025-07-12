@@ -210,7 +210,7 @@ export const DATA = {
       href: "https://workly.io/en",
       dates: "Juin 2024 - Novembre 2024",
       active: true,
-      description: "",
+  
       technologies: [
         "ReactJS",
       ],
