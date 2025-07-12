@@ -156,6 +156,30 @@ export const DATA = {
       video: "/jobScrapDemo.mp4",
     },
 
+     {
+      title: " site ehs",
+      href: "https://www.ehs.com",
+      dates: "Décembre 2023 - Avril 2023",
+      active: true,
+      description: "Engineered a robust solution that automates job offer scraping from multiple sites and seamlessly integrates data into a custom WordPress platform with MySQL. Featuring an Angular-driven configuration interface, LDAP-based security, and nightly cron job automation, this project is deployed on a scalable VPS using Gunicorn and Nginx.",
+      technologies: [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "Typescript"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.ehs.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Captureehs.png",
+      video: "",
+    },
+
+
 
      {
       title: "leboncoin",
@@ -165,6 +189,9 @@ export const DATA = {
       description: "",
       technologies: [
         "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "Typescript"
       ],
       links: [
         {
