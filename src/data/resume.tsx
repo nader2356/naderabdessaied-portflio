@@ -132,12 +132,12 @@ export const DATA = {
 
   projects: [
      {
-      title: "Grattoir à voiture",
-      href: "https://www.autoprix.tn",
+      title: "Grattoir à travail ",
+      href: "http://213.130.144.156/",
       dates: "Jan 2024 - jun 2024",
       active: true,
       description: "Nous avons conçu une solution robuste qui automatise la récupération des voitures et ces details sur plusieurs sites et intègre parfaitement les données à une plateforme personnalisée avec MySQL. Doté d'une interface de configuration basée sur ReactJS, d'une sécurité LDAP et d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx..",    
-  technologies: [
+      technologies: [
         "Python",
         "Flask",
         "Angular",
@@ -155,7 +155,6 @@ export const DATA = {
       image: "",
       video: "/jobScrapDemo.mp4",
     },
-
 
 
      {
